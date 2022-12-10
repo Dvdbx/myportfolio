@@ -1,3 +1,3 @@
 # myportfolio
 
-This is my portfolio project with some informations about me 
+This is my portfolio project in reactjs
